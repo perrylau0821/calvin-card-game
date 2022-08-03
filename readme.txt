@@ -1,0 +1,1 @@
+1) run "node csv2json.js" to cleanup and convert .csv to .json
